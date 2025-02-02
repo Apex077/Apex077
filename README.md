@@ -5,6 +5,7 @@
 - ⚡ Fun fact: I listen to the WAN show on a regular basis.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apex077&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 <!---
 Apex077/Apex077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
