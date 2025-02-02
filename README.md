@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @Apex077, a Computer Science Science Student at Shiv Nadar University, Chennai
-- 👀 I’m interested in technology as a whole, and consider myself to be a Tech Enthusiast.
-- 🌱 I’m currently learning Machine Learning, and am trying to use it in the Cybersecurity domain.
-- 💞️ I’m looking to collaborate on any projects that can provide a new learning opportunity.
-- ⚡ Fun fact: I listen to the WAN show on a regular basis.
+I'm Dharaneesh, who goes by the name of Apex007 online, and I'm just a normal guy, with a extreme passion (which some might call obsession) with technology. I consider myself a Technology Enthusiast. I aspire to learn something new everyday. Some of my hobbies include being a total nerd.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Apex077&layout=compact&theme=chartreuse-dark)
-
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apex077&show_icons=true&theme=chartreuse-dark)
 
 
